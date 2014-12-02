@@ -1,0 +1,4 @@
+gems:
+- jekyll
+- jekyll-sitemap
+- jekyll-redirect-from
